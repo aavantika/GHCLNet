@@ -2,7 +2,7 @@
 ===================
 
 
-This README will guide you through running the code and getting classification results on test images. This code is implemented by vishesh mistry (student of Indian Institute of Technology, Jodhpur) and avantika singh
+This README will guide you through running the code and getting classification results on test images. This code is implemented by Vishesh Mistry (student of Indian Institute of Technology, Jodhpur) and Avantika Singh.
 
 ----------
 
